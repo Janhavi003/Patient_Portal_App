@@ -4,6 +4,13 @@ This is the **frontend** of a digital health clinic's Patient Portal, built with
 
 ---
 
+## 🌐 Live Deployments
+
+- **Frontend**: [https://patient-portal-app-inky.vercel.app/tests](https://patient-portal-app-inky.vercel.app/tests)
+- **Backend**: [https://patient-portal-app-5vsi.onrender.com/](https://patient-portal-app-5vsi.onrender.com/)
+
+---
+
 ## ✨ Features
 
 - ✅ **Patient Registration** with form validation  
@@ -19,7 +26,7 @@ This is the **frontend** of a digital health clinic's Patient Portal, built with
 ## 🔧 Tech Stack
 
 - **Frontend**: React, React Router, Axios  
-- **Styling**: Custom CSS only (no Bootstrap, no Tailwind)  
+- **Styling**: Custom CSS only  
 - **API Base URL**: Uses environment variable `REACT_APP_API_URL`  
 
 ---
@@ -29,5 +36,5 @@ This is the **frontend** of a digital health clinic's Patient Portal, built with
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/patient-portal-frontend.git
+git clone https://github.com/Janhavih003/patient-portal-frontend.git
 cd patient-portal-frontend
